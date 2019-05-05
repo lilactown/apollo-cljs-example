@@ -1,0 +1,12 @@
+{:source-paths ["src"]
+ :dependencies
+ [[binaryage/devtools "0.9.7"]
+  [lilactown/hx "0.5.1"]
+  [appliedscience/js-interop "0.1.19"]]
+ :builds {:app {:target :browser
+                :output-dir "public/js"
+                :asset-path "/js"
+                :modules {:main {:entries [apollo-example.core]}}
+                :devtools {:http-root    "public/"
+                           :http-port    8700
+                           :preloads     [devtools.preload]}}}}
