@@ -24,3 +24,7 @@ npm start
 This will clone the repo and start the shadow-cljs build server.
 
 Navigate to http://localhost:8700 to run the application.
+
+## License
+
+Copyright 2019 Will Acton. Licensed MIT
