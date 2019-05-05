@@ -1,6 +1,6 @@
 # apollo-cljs-example
 
-This is an example of using [react-apollo] in a ClojureScript browser application.
+This is an example of using [Apollo GraphQL's React client](https://www.apollographql.com/docs/react/) in a ClojureScript browser application.
 
 The example code is the result of following along the [react-apollo Getting Started guide](https://github.com/apollographql/apollo-client/blob/f5604474fb69080780ca234dc200a0257e39895b/docs/source/essentials/get-started.md).
 
