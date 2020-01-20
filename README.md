@@ -6,9 +6,9 @@ The example code is the result of following along the [react-apollo Getting Star
 
 It uses the following libraries & tools:
 - [shadow-cljs](https://github.com/thheller/shadow-cljs) for compiling ClojureScript to JS
-- [hx](https://github.com/Lokeh/hx) for using and creating React components
-- [appliedsciences/js-interop](https://github.com/appliedsciencestudio/js-interop) for reading JS objects easily
-- [react-apollo](https://github.com/apollographql/react-apollo)
+- [helix](https://github.com/Lokeh/helix/) for using and creating React components
+- [cljs-bean](https://github.com/mfikes/cljs-bean) for interoping with JS objects easily
+- [@apollo/react-hooks](https://www.apollographql.com/docs/react/api/react-hooks/)
 - [apollo-boost](https://github.com/apollographql/apollo-client/tree/master/packages/apollo-boost)
 
 ## Development
