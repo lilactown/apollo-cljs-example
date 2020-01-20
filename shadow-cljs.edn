@@ -1,7 +1,8 @@
 {:source-paths ["src"]
  :dependencies
  [[binaryage/devtools "0.9.7"]
-  [lilactown/hx "0.5.1"]
+  [lilactown/helix "0.0.6"]
+  [cljs-bean "1.5.0"]
   [appliedscience/js-interop "0.1.19"]]
  :builds {:app {:target :browser
                 :output-dir "public/js"
